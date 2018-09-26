@@ -1,0 +1,19 @@
+<script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"Corporation",
+    "brand":"早安健康嚴選市集",
+    "url":"https://shop.everydayhealth.com.tw/",
+    "sameAs": [
+      "https://www.facebook.com/everydayhealth.com.tw/",
+      "https://www.everydayhealth.com.tw/"
+    ],
+    "logo":"https://ftp.pic.everydayhealth.com.tw/edh_upload/website_info/pic_logo_top_menu_1.jpg",
+    "contactPoint": [{ 
+      "@type": "ContactPoint",
+      "telephone": "+886255967262",
+      "contactType": "customer service",
+      "areaServed": "TW"
+    }]
+  }
+</script>
